@@ -3,6 +3,8 @@
 
 
 
+###### Este arquivo tem por finalidade guardar comandos úteis para consulta caso caia em esquecimento por falta de uso.
+
 - Comandos:
 
   ​	cd - navega entre pastas
