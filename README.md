@@ -31,4 +31,4 @@
 
   ​	git remote -b - mostra lista de repositórios remotos salvos
 
-  ​	git push origin master - envia mudanças para repositório online.
+  ​	git push origin main - envia mudanças para repositório online.
