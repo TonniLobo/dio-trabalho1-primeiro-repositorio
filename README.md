@@ -1,2 +1,2 @@
-# dio-trabalho1-primeiro-repositorio
+# Desafio de Projeto Git-GitHub
 Trabalho 1 Bootcamp java - Git/GitHub
